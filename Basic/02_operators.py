@@ -35,6 +35,7 @@ print(3 != 4)
 
 # Operaciones con cadenas de texto
 print("Hola" > "Python") 
+print("Hallo" > "Python") 
 print("Hola" < "Python")
 print("aaaa" >= "abaa") # Ordenación alfabética por ASCII
 print(len("aaaa") >= len("abaa")) # Cuenta caracteres
